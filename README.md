@@ -2,6 +2,6 @@
 ####By: Trentan Davé
 
 '''
-import BlackJack()
+import GamblingBlackJack.py()
 
 '''
