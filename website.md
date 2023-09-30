@@ -6,6 +6,7 @@ theme: Tactile
 ---
 
 ~~~
-import GamblingBlackJack.py()
+{python}
+print("Hello Mom!")
 ~~~
 
