@@ -5,7 +5,7 @@ layout: default
 ---
 
 '''
-GamblingBlackJack.py()
+
 
 '''
 theme: Tactile
