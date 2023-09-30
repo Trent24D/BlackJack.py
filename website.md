@@ -5,6 +5,6 @@ layout: default
 ---
 
 '''
-import GamblingBlackJack.py()
+GamblingBlackJack.py
 
 '''
