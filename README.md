@@ -1,7 +1,1 @@
-#Black Jack
-####By: Trentan Davé
-
-'''
-import GamblingBlackJack.py()
-
-'''
+Black Jack with Money!!
