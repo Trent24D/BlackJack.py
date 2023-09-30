@@ -6,6 +6,6 @@ theme: Tactile
 ---
 
 ~~~
-
+import GamblingBlackJack.py()
 ~~~
 
