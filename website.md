@@ -6,7 +6,8 @@ theme: Tactile
 ---
 
 ~~~
-{python}
+<py_script>
 print("Hello Mom!")
+<py_script>
 ~~~
 
